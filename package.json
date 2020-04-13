@@ -1,0 +1,11 @@
+{
+  "name": "tune-up",
+  "version": "0.0.1",
+  "description": "Vinli's Vue.js Linting config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinli Developers",
+  "license": "MIT"
+}
